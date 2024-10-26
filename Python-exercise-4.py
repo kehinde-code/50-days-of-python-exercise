@@ -1,11 +1,11 @@
-def area():
-    return area, parameter, surface 
+def area(length):
+    return length 
 
 
 
 
 
-def parameter()
+def parameter(perimeter):
 
 
 
