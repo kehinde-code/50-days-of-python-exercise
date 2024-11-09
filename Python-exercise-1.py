@@ -3,5 +3,19 @@ print("Hello, World")
 print("Please enter your name: ")
 name = input() 
 
-print ("Hello, your name")
 
+
+# --------------
+
+## Combine this two together
+
+# print("Please enter your name: ")
+# name = input() 
+
+
+# ----------------
+
+
+## This is not correct:
+
+# print ("Hello, your name")
